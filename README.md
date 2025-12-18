@@ -89,5 +89,3 @@ Round Robin is a **preemptive scheduling algorithm** where:
 - Computes average waiting and turnaround time
 - Calculates CPU utilization
 
-📄 File:
-
