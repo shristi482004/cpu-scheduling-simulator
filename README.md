@@ -1,4 +1,4 @@
-# Round-robin-scheduling-Operating-System-Mini-Project-
+# Round-robin-scheduler
 A CPU Scheduling Simulator implementing the Round Robin (RR) algorithm using Shell Script and C. The project simulates process execution, generates Gantt charts, computes waiting time, turnaround time, completion time, CPU utilization, and demonstrates fair preemptive scheduling as part of an Operating Systems minor project.
 <br>
 # 🖥️ Round Robin CPU Scheduling Simulator (OS Minor Project)
