@@ -1,7 +1,7 @@
 # Round-robin-scheduler
 A CPU Scheduling Simulator implementing the Round Robin (RR) algorithm using Shell Script and C. The project simulates process execution, generates Gantt charts, computes waiting time, turnaround time, completion time, CPU utilization, and demonstrates fair preemptive scheduling as part of an Operating Systems minor project.
 <br>
-# 🖥️ Round Robin CPU Scheduling Simulator (OS Minor Project)
+#  Round Robin CPU Scheduling Simulator (OS Minor Project)
 
 This repository contains the implementation of a **CPU Scheduling Simulator** using the **Round Robin (RR)** scheduling algorithm.  
 The project is developed as part of an **Operating Systems Minor Project** and demonstrates how modern operating systems fairly allocate CPU time among multiple processes.
@@ -12,7 +12,7 @@ The simulator is implemented using:
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 The objectives of this project are to:
 
@@ -33,7 +33,7 @@ The objectives of this project are to:
 
 ---
 
-## 🧠 Theory Overview
+##  Theory Overview
 
 ### CPU Scheduling
 CPU scheduling determines which process gets access to the CPU when multiple processes are ready to execute. Efficient scheduling improves:
@@ -51,7 +51,7 @@ Round Robin is a **preemptive scheduling algorithm** where:
 
 ---
 
-## 📊 Key Scheduling Parameters
+## Key Scheduling Parameters
 
 | Term | Description |
 |----|------------|
@@ -65,7 +65,7 @@ Round Robin is a **preemptive scheduling algorithm** where:
 
 ---
 
-## ⚙️ Algorithm (Round Robin)
+##  Algorithm (Round Robin)
 
 1. Input number of processes
 2. Read Arrival Time and Burst Time for each process
@@ -80,9 +80,9 @@ Round Robin is a **preemptive scheduling algorithm** where:
 
 ---
 
-## 🛠️ Implementation Details
+##  Implementation Details
 
-### 🐚 Shell Script
+###  Shell Script
 - Implements Round Robin scheduling logic
 - Uses arrays to track process attributes
 - Generates a textual Gantt Chart
