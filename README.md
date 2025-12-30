@@ -88,5 +88,8 @@ Round Robin is a **preemptive scheduling algorithm** where:
 - Generates a textual Gantt Chart
 - Computes average waiting and turnaround time
 - Calculates CPU utilization
+
+##  Sample Output
+
 <img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/cecd1c2b-7ab8-4b32-aaee-bdc65206254f" />
 
